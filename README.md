@@ -27,13 +27,13 @@ My passion lies in **building intelligent systems**, automating workflows, and p
 
 ## 🛠️ Tech Toolbox  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Data Analysis](https://img.shields.io/badge/Data_Analysis-1E90FF?style=for-the-badge&logo=plotly&logoColor=white)]()
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]()
-[![Linux / Shell](https://img.shields.io/badge/Linux/Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![CI/CD (GitHub Actions)](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]()
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[![Data Analysis](https://img.shields.io/badge/Data_Analysis-1E90FF?style=for-the-badge&logo=plotly&logoColor=white)]
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)]
+[![Linux / Shell](https://img.shields.io/badge/Linux/Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black)]
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]
+[![CI/CD (GitHub Actions)](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]
 
 ---
 
