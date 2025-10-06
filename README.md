@@ -25,18 +25,6 @@ My passion lies in **building intelligent systems**, automating workflows, and p
 
 ---
 
-## 🛠️ Tech Toolbox
-
-| Skill                     | Level |
-| :------------------------ | :---- |
-| 🐍 Python                 | ★★★★★ |
-| 🧮 Data Analysis          | ★★★★★ |
-| 🧠 Machine Learning       | ★★★★☆ |
-| 🐧 Linux / Shell          | ★★★★☆ |
-| 🐳 Docker                 | ★★★★☆ |
-| ⚙️ CI/CD (GitHub Actions) | ★★★★☆ |
-| ☁️ Azure                  | ★★★★☆ |
-
 ## 🛠️ Tech Toolbox  
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
