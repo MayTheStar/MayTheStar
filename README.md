@@ -51,6 +51,25 @@ My passion lies in **building intelligent systems**, automating workflows, and p
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-May%20Alotaibi-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/may-b-932486325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge\&logo=github)](https://github.com/MayTheStar)
 
+
+[![GitHub](https://img.shields.io/badge/GitHub-@YOUR_GITHUB-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mai%20Alotaibi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id/)
+
+[![Follow on GitHub](https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB)
+[![Let's connect](https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id/)
+
+
+[<img src="https://img.shields.io/badge/GitHub-%E2%9A%A1%EF%B8%8F-black?style=for-the-badge&logo=github" alt="GitHub" />](https://github.com/YOUR_GITHUB)
+[<img src="https://img.shields.io/badge/LinkedIn-%F0%9F%91%8D-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />](https://www.linkedin.com/in/your-linkedin-id/)
+
+
+[![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)]()
+[![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)]()
+[![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoft-azure)]()
+
+
+
+
 ---
 
 > 💬 “Code that solves a problem is good.
