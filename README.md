@@ -48,7 +48,7 @@ My passion lies in **building intelligent systems**, automating workflows, and p
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-May%20Alotaibi-blue?style=for-the-badge\&logo=linkedin)]((https://www.linkedin.com/in/may-b-alotaibi-932486325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-May%20Alotaibi-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/may-b-932486325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge\&logo=github)](https://github.com/MayTheStar)
 
 ---
