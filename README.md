@@ -6,7 +6,7 @@
 
 ## ✨ About Me
 
-Hi! I’m **May**, a Computer Science graduate who believes technology is the art of turning imagination into something real.
+I’m **May**, a Computer Science graduate who believes technology is the art of turning imagination into something real.
 I trained at **Apple Developer Academy (Middle East)** where design meets innovation 
 and at the **Saudi Digital Academy (SDA)**, where I mastered the craft of **Generative AI** through an intensive program.
 
