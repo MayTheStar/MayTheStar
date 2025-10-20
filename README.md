@@ -7,7 +7,7 @@
 ## ✨ About Me
 
 I’m **May**, a Computer Science graduate who believes technology is the art of turning imagination into something real.
-I trained at **Apple Developer Academy (Middle East)** where design meets innovation 
+I trained at **Apple Developer Academy (Middle East)** where creativity meets innovation 
 and at the **Saudi Digital Academy (SDA)**, where I mastered the craft of **Generative AI and MLOps** through an intensive program.
 
 My passion lies in **building intelligent systems**, automating workflows, and pushing boundaries with data and creativity.
